@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=mobi-thumbnailer
+Exec=mobi-thumbnailer %i %o %s
+MimeType=application/x-mobipocket-ebook

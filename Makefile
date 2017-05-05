@@ -1,7 +1,7 @@
 PREFIX=/usr/local
 
 PACKAGE_NAME=mobi-thumbnailer
-PACKAGE_VERSION=0.1
+PACKAGE_VERSION=0.2
 
 install:
 	install -m 755 src/bin/mobi-thumbnailer $(PREFIX)/bin

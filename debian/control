@@ -1,8 +1,8 @@
 Package: mobi-thumbnailer
 Architecture: all
 Maintainer: Livanh <livanh@bulletmail.org>
-Depends: libebook-tools-perl, imagemagick, python-gtk2
+Depends: libebook-tools-perl, imagemagick
 Priority: optional
-Version: 0.1
+Version: 0.2
 Description: Thumbnailer for Mobipocket book files 
  This script creates thumbnails for Mobipocket files in PCManFM and other file managers.

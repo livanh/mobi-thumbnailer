@@ -1,3 +1,3 @@
-# Thumbnailer for Mobipocket book files
+# Thumbnailer for Mobipocket e-book files
 
-This script creates thumbnails for Mobipocket files in PCManFM and other file managers.
+This script creates thumbnails for Mobipocket e-book files in Nautilus, Nemo, PCManFM, and other file managers following GNOME conventions.

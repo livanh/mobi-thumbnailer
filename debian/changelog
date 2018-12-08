@@ -1,4 +1,10 @@
-mobi-thumbnailer (0.2-1) UNRELEASED; urgency=low
+mobi-thumbnailer (0.2-2) testing; urgency=medium
+
+  * Changed email address
+
+ -- Livanh <livanh@protonmail.com>  Sat, 08 Dec 2018 12:57:21 +0100
+
+mobi-thumbnailer (0.2-1) testing; urgency=low
 
   * Initial release.
 
